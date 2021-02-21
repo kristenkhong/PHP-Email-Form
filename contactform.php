@@ -6,7 +6,7 @@
 		$human = intval($_POST['human']);
 		$from = $email; 
 		
-		// WARNING: Be sure to change this. This is the address that the email will be sent to
+		// WARNING: Be sure to change this. This is the address that the email will be sent to... test
 		$to = 'YOUR_SPECIFIED_EMAIL_ADDRESS'; 
 		
 		$subject = "Message from ".$name." ";
